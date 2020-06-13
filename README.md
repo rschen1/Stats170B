@@ -4,7 +4,7 @@ To run the Notebook.ipynb, there are three associated csv's that need to be util
 
 If desired, feel free to visit some of the other Python notebooks that are described below: 
 
-  MainPlayerStats.ipynb is a script that scrabes pro-football-reference.com for the statistics of interest in our project. 
+  MainPlayerStats.ipynb is a script that scrapes pro-football-reference.com for the statistics of interest in our project. 
   
   PCA.ipynb is a script that utilizes Principal Component Analysis to examine the relationship of players' performances with their teams' offensive statistics in the past season and their opponent's defensive statistics in the past season. 
   
