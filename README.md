@@ -5,6 +5,7 @@ To run the Notebook.ipynb, there are three associated csv's that need to be util
 If desired, feel free to visit some of the other Python notebooks that are described below: 
 
   MainPlayerStats.ipynb is a script that scrabes pro-football-reference.com for the statistics of interest in our project. 
+  
   PCA.ipynb is a script that utilizes Principal Component Analysis to examine the relationship of players' performances with their teams' offensive statistics in the past season and their opponent's defensive statistics in the past season. 
   
  The Random Forest Regression and Ridge Regression notebook contains the hyperparameter tuning of the random forest models for each football player position, and the ridge regression model with PCA. It loads a csv of the merged football data, excluding tweet data as we determined it was not significant to the model. Table comparing RMSE of models and plots of predicted vs actual fantasy scores are created. 
